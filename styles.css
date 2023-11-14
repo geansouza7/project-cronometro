@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #5ce1e5;
+    margin-top: 50px;
+    padding: 20px;
+    }
+
+    .cronometro {
+        font-size: 2em;
+        margin: 20px;
+    }
+
+    button {
+        font-size: 1em;
+        padding: 10px, 20px;
+        margin: 10px;
+        background-color: #d3d3d3;
+    }
+
+    button:hover {
+        background-color: #696969;
+    }
